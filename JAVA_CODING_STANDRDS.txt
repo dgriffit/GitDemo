@@ -1,0 +1,4 @@
+/**
+*Java Coding standards document
+*
+**/
